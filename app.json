@@ -1,10 +1,8 @@
 {
   "expo": {
-    "scheme": "acme",
-    "plugins": [
-      "expo-router"
-    ],
     "name": "vibecode-mobile-app-template",
-    "slug": "vibecode-mobile-app-template"
+    "slug": "vibecode-mobile-app-template",
+    "version": "1.0.0",
+    "scheme": "myapp"
   }
 }
