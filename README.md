@@ -280,3 +280,11 @@ When adding native dependencies:
 ---
 
 **Built for vibecoders. Powered by Claude Code.**
+
+## Created By
+
+This template was created by the **JigJoy team**.
+
+- 🌐 Website: [jigjoy.io](https://jigjoy.io)
+- 💬 Discord: [Join our community](https://discord.gg/xQR6DNtY)
+- 🐙 GitHub: [jigjoy-io](https://github.com/jigjoy-io)
